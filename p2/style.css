@@ -129,11 +129,14 @@ a {
 }
 
 footer article {
-    background-color: rgba(149, 230, 237, 0.738);
-    border-top-right-radius: 50%;
-    padding-top: 2%;
+    background-color: rgba(110, 91, 218, 0.158);
+    border-top-right-radius: 160%;
+    color: rgba(245, 245, 220, 0.767);
     margin-top: 10%;
-    width: 600px;
-    height: px ;
+    width: 200px;
+    height:60px ;
+    padding-top: 6%;
+    padding-left: 5px ;
+    
     }
    
