@@ -1,0 +1,139 @@
+body {
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(206, 226, 226);
+
+}
+
+li {
+    list-style: none;
+}
+
+nav {
+    margin-top: 0%;
+    color: rgb(239, 234, 232);
+    padding-left: 1%;
+    background-color: rgba(16, 33, 33, 0.876);
+
+    height: 40px;
+    list-style: none;
+    list-style-type: none;
+    background-color: rgba(1, 19, 13, 0.664);
+    color: rgb(227, 249, 244);
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(167, 194, 215);
+}
+
+ul {
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+    gap: 3em;
+    font-size: 22px;
+    padding-right: 2%;
+}
+
+section {
+    background-color: rgba(6, 21, 21, 0.92);
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 60%;
+    padding: 1%;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.wlc {
+    margin-top: 7%;
+    color: rgb(140, 142, 157);
+    margin-left: 23%;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.name {
+    margin-left: 19%;
+    margin-top: 4%;
+    background-color: black;
+    border-radius: 10px;
+    height: 25px;
+    width: 60%;
+    color: beige;
+}
+
+.password {
+    margin-left: 19%;
+    margin-top: 10%;
+    background-color: black;
+    border-radius: 10px;
+    height: 25px;
+    width: 60%;
+    color: beige;
+}
+
+.botten {
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: black;
+    color: beige;
+
+    width: 60%;
+    height: 26px;
+}
+
+p {
+    margin-top: 5%;
+    margin-left: 25%;
+    color: rgb(180, 184, 186);
+
+}
+
+a {
+    color: rgb(158, 196, 199);
+
+}
+
+.or {
+    margin-top: 7%;
+    margin-left: 47%;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.creat {
+    margin-top: 3%;
+    color: antiquewhite;
+    background-color: rgba(4, 7, 21, 0.419);
+    border-radius: 10px;
+    background-color: black;
+    color: beige;
+
+    width: 60%;
+    height: 28px;
+
+    margin-left: 20%;
+}
+
+footer article {
+    background-color: rgba(149, 230, 237, 0.738);
+    border-top-right-radius: 50%;
+    padding-top: 2%;
+    margin-top: 10%;
+    width: 600px;
+    height: px ;
+    }
+   
